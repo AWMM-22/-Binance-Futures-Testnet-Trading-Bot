@@ -97,8 +97,14 @@ The CLI is useful when you want to work from the terminal. It supports order pla
 
 ## Output Images
 <img width="1905" height="988" alt="Screenshot 2026-05-09 144701" src="https://github.com/user-attachments/assets/ef724d24-64df-47eb-9b36-7016d4d69b0c" />
+
+
 <img width="1900" height="984" alt="Screenshot 2026-05-09 144800" src="https://github.com/user-attachments/assets/4c976611-c623-4d48-b30e-44495aac8179" />
+
+
 <img width="1897" height="992" alt="Screenshot 2026-05-09 144902" src="https://github.com/user-attachments/assets/3c72c1fa-842c-4802-bff3-a18fc1189977" />
+
+
 <img width="1901" height="988" alt="Screenshot 2026-05-09 144924" src="https://github.com/user-attachments/assets/bb2bd350-2275-4f0f-9b35-65c875ca7f1a" />
 
 
