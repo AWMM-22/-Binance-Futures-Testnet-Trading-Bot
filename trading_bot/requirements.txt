@@ -1,0 +1,12 @@
+python-binance==1.0.19
+Typer==0.12.3
+click==8.1.7
+rich==13.8.1
+loguru==0.7.2
+tenacity==8.5.0
+pydantic==2.8.2
+pydantic-settings==2.4.0
+python-dotenv==1.0.1
+pytest==8.3.2
+fastapi==0.115.0
+uvicorn==0.30.6

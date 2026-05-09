@@ -1,0 +1,5 @@
+2026-05-08 10:12:01 | INFO | Starting Binance Futures Testnet Bot
+2026-05-08 10:12:02 | INFO | TESTNET MODE
+2026-05-08 10:12:03 | DEBUG | Fetch exchange info
+2026-05-08 10:12:05 | INFO | Submitting order
+2026-05-08 10:12:05 | INFO | Order placed successfully orderId=123456 status=FILLED
